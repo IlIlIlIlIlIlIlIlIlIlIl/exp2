@@ -8,7 +8,7 @@
 
 创建后启动
 
-<image9>---------------------------------------------------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/9.png?raw=true)
 
 
 
@@ -42,7 +42,7 @@ android:textStyle="bold"
 
  重新运行应用程序 
 
-<image1>---------------------------------------------------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/1.png?raw=true)
 
 
 
@@ -91,7 +91,7 @@ android:textStyle="bold"
 <Button    android:id="@+id/random_button"    android:layout_width="wrap_content"    android:layout_height="wrap_content"    android:layout_marginEnd="24dp"    android:background="@color/buttonBackground"    android:text="@string/random_button_text"    app:layout_constraintBottom_toBottomOf="parent"    app:layout_constraintEnd_toEndOf="parent"    app:layout_constraintTop_toBottomOf="@+id/textview_first" />
 ```
 
-<image2>-----------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/2.png?raw=true)
 
 
 
@@ -103,7 +103,7 @@ android:textStyle="bold"
 <Button    android:id="@+id/count_button"    android:layout_width="wrap_content"    android:layout_height="wrap_content"    android:text="@string/count_button_text"    android:background="@color/buttonBackground"    app:layout_constraintTop_toBottomOf="@+id/textview_first"    app:layout_constraintStart_toStartOf="@+id/toast_button"    app:layout_constraintEnd_toEndOf="@+id/random_button"    app:layout_constraintBottom_toBottomOf="parent"/>
 ```
 
-<image3>-----------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/3.png?raw=true)
 
 
 
@@ -150,7 +150,7 @@ android:background="@color/buttonBackground"
 
 运行代码结果如下
 
-<image4>-----------------------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/4.png?raw=true)
 
 
 
@@ -325,7 +325,7 @@ strings.xml文件中，修改hello_second_fragment的值为"Here is a random num
 
 布局结果如下
 
-<image5>-------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/5.png?raw=true)
 
 
 
@@ -333,7 +333,7 @@ strings.xml文件中，修改hello_second_fragment的值为"Here is a random num
 
  打开nav_graph.xml文件（**res>navigation>nav_graph.xml**） 
 
-<image6>-------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/6.png?raw=true)
 
 
 
@@ -409,6 +409,6 @@ view.findViewById<TextView>(R.id.textview_random).text = randomNumber.toString()
 
 最后运行程序，结果如下
 
-<image7>-------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/7.png?raw=true)
 
-<image8>-------------------------------------------------------------------
+![image](https://github.com/IlIlIlIlIlIlIlIlIlIlIl/exp2/blob/main/image/8.png?raw=true)
